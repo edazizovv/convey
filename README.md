@@ -8,7 +8,7 @@ Data Storages
 
 ## STATUS:
 
-<TO BE FILLED>
+Operational
 
 ## MIRO
 
